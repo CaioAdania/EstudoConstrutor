@@ -1,0 +1,14 @@
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosConstrutor\EstudosConstrutor\bin\Debug\net8.0\EstudosConstrutor.exe
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosConstrutor\EstudosConstrutor\bin\Debug\net8.0\EstudosConstrutor.deps.json
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosConstrutor\EstudosConstrutor\bin\Debug\net8.0\EstudosConstrutor.runtimeconfig.json
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosConstrutor\EstudosConstrutor\bin\Debug\net8.0\EstudosConstrutor.dll
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosConstrutor\EstudosConstrutor\bin\Debug\net8.0\EstudosConstrutor.pdb
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosConstrutor\EstudosConstrutor\obj\Debug\net8.0\EstudosConstrutor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosConstrutor\EstudosConstrutor\obj\Debug\net8.0\EstudosConstrutor.AssemblyInfoInputs.cache
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosConstrutor\EstudosConstrutor\obj\Debug\net8.0\EstudosConstrutor.AssemblyInfo.cs
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosConstrutor\EstudosConstrutor\obj\Debug\net8.0\EstudosConstrutor.csproj.CoreCompileInputs.cache
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosConstrutor\EstudosConstrutor\obj\Debug\net8.0\EstudosConstrutor.dll
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosConstrutor\EstudosConstrutor\obj\Debug\net8.0\refint\EstudosConstrutor.dll
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosConstrutor\EstudosConstrutor\obj\Debug\net8.0\EstudosConstrutor.pdb
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosConstrutor\EstudosConstrutor\obj\Debug\net8.0\EstudosConstrutor.genruntimeconfig.cache
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosConstrutor\EstudosConstrutor\obj\Debug\net8.0\ref\EstudosConstrutor.dll
