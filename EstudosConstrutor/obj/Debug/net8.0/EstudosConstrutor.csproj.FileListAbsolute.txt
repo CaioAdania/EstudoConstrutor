@@ -12,3 +12,4 @@ C:\Users\caioa\Documents\Caio\VsCommunity\EstudosConstrutor\EstudosConstrutor\ob
 C:\Users\caioa\Documents\Caio\VsCommunity\EstudosConstrutor\EstudosConstrutor\obj\Debug\net8.0\EstudosConstrutor.pdb
 C:\Users\caioa\Documents\Caio\VsCommunity\EstudosConstrutor\EstudosConstrutor\obj\Debug\net8.0\EstudosConstrutor.genruntimeconfig.cache
 C:\Users\caioa\Documents\Caio\VsCommunity\EstudosConstrutor\EstudosConstrutor\obj\Debug\net8.0\ref\EstudosConstrutor.dll
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosConstrutor\EstudosConstrutor\obj\Debug\net8.0\EstudosConstrutor.sourcelink.json

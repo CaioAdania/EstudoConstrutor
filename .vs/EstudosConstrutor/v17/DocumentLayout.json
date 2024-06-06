@@ -18,8 +18,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\caioa\\Documents\\Caio\\VsCommunity\\EstudosConstrutor\\EstudosConstrutor\\Program.cs",
+              "RelativeDocumentMoniker": "EstudosConstrutor\\Program.cs",
+              "ToolTip": "C:\\Users\\caioa\\Documents\\Caio\\VsCommunity\\EstudosConstrutor\\EstudosConstrutor\\Program.cs",
+              "RelativeToolTip": "EstudosConstrutor\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:52:37.391Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -36,22 +50,9 @@
               "RelativeDocumentMoniker": "EstudosConstrutor\\Entities\\Teste.cs",
               "ToolTip": "C:\\Users\\caioa\\Documents\\Caio\\VsCommunity\\EstudosConstrutor\\EstudosConstrutor\\Entities\\Teste.cs",
               "RelativeToolTip": "EstudosConstrutor\\Entities\\Teste.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABLAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-06T17:53:28.63Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\caioa\\Documents\\Caio\\VsCommunity\\EstudosConstrutor\\EstudosConstrutor\\Program.cs",
-              "RelativeDocumentMoniker": "EstudosConstrutor\\Program.cs",
-              "ToolTip": "C:\\Users\\caioa\\Documents\\Caio\\VsCommunity\\EstudosConstrutor\\EstudosConstrutor\\Program.cs",
-              "RelativeToolTip": "EstudosConstrutor\\Program.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAgwCAAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T17:52:37.391Z",
               "EditorCaption": ""
             }
           ]

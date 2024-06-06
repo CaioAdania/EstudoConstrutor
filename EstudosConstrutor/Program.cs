@@ -12,10 +12,11 @@ namespace EstudosConstrutor
             string nome = Console.ReadLine();
             Console.Write("Preço: ");
             double preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            Console.Write("Quantidade no estoque: ");
-            int quantidade = int.Parse(Console.ReadLine());
+            /*Console.Write("Quantidade no estoque: ");
+            int quantidade = int.Parse(Console.ReadLine());*/
 
-            Teste t = new Teste(nome, preco, quantidade);
+            Teste t = new Teste(nome, preco); //teste com sobrecarga
+            /*Teste t = new Teste(); Para usar este tipo de instancia, temos que criar mais uma sobrecarga vazia*/
 
             Console.WriteLine();
             Console.WriteLine("Dados do Produto: " + t);

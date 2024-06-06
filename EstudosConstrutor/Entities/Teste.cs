@@ -13,11 +13,24 @@ namespace EstudosConstrutor.Entities
         public double Preco;
         public int Quantidade;
 
+        /*public Teste()
+        {
+                    quando queremos uma sobrecarga vazia, optamos por isso
+        }*/
+
         public Teste(string nome, double preco,int quantidade) //construtor
         {
             Nome = nome;
             Preco = preco;
             Quantidade = quantidade;
+        }
+
+        public Teste(string nome, double preco)
+        {
+            Nome = nome;
+            Preco = preco;
+            Quantidade = 5; /*Neste caso, não existe necessidade de colocar Quantidade = 0, pois por padrão
+                             Quantidade ja recebe seu valor 0 caso não seja declarado*/
         }
 
         public double ValorTotalEmEstoque()
